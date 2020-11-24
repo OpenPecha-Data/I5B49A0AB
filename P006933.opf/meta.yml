@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC400
   title: 'ཀཾ་ཚང་བླ་མ་ཡབ་སྲས་དྲུག་གི་རྣམ་ཐར། '
-  volume: ''
+  volume:
+    15caf83bd25a42f5b9414e3ecf78369d:
+      image_group_id: I2PD18755
+      title: Volume 1 of kaM tshang bla ma yab sras drug gi rnam thar/
+      volume_number: 1
+      total_pages: 140
   author: ''
+ebook_metadata:
+  title: 'ཀཾ་ཚང་བླ་མ་ཡབ་སྲས་དྲུག་གི་རྣམ་ཐར། '
+  author: ''
+  sku: P006933
+  cover: cover.jpg
+  layers:
+  - pagination
