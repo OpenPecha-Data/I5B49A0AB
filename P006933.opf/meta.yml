@@ -1,15 +1,16 @@
-id: opecha:P006933
+id: P006933
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC400
   title: 'ཀཾ་ཚང་བླ་མ་ཡབ་སྲས་དྲུག་གི་རྣམ་ཐར། '
-  volume:
+  author: ''
+  volumes:
     15caf83bd25a42f5b9414e3ecf78369d:
       image_group_id: I2PD18755
       title: Volume 1 of kaM tshang bla ma yab sras drug gi rnam thar/
       volume_number: 1
       total_pages: 140
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'ཀཾ་ཚང་བླ་མ་ཡབ་སྲས་དྲུག་གི་རྣམ་ཐར། '
   author: ''
